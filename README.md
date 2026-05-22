@@ -16,6 +16,12 @@ This helped ensure a clean design system and a more structured development workf
 
 ---
 
+##  Demo
+
+Watch the full project demo here:  
+[https://www.youtube.com/watch?v=xxxx](https://youtu.be/VzRDOBwrKw0)
+
+---
 ## Features
 
 * Dynamic AI service marketplace
